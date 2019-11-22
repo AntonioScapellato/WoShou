@@ -2,7 +2,7 @@
 
 Working Group: 
 
-Antonio Scapellato 
+Antonio
 Linda
 Maria
 Lisa
