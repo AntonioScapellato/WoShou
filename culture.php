@@ -111,8 +111,8 @@
                         <a href="#" class="blog-thumbnail mb-3 d-block"><img src="images/culture/il_calendario_cinese.jpg" alt="Image" class="img-fluid"></a>
                         <div class="blog-excerpt">
                           <span class="d-block text-muted">Cultura & Società</span>
-                          <h2 class="h4  mb-3"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfXQ82Ow8T0NbsGsrGvdGHiCcwmtX5zXL1cp1XrmIYBSLhuOQ/viewform">Calendario Cinese</a></h2>
-                          <p style="color:#000; text-align: justify;">Il calendario cinese, chiamato 农历(nongli), è un calendario lunisolare. Dalle origini millenarie, subì numerose modifiche nel corso del tempo e ancora oggi viene osservato per le festività tradizionali.
+                          <h2 class="h4  mb-3"><a>Calendario Cinese</a></h2>
+                          <p style="color:#000; text-align: justify;">Il calendario cinese, chiamato 农历(nongli), è un calendario lunisolare. Dalle origini millenarie, subì numerose modifiche nel corso del tempo e ancora oggi viene osservato per le festività tradizionali.<br>
 Gli anni possono essere comuni (12 mesi) oppure embolismici (13 mesi). In genere si hanno 7 mesi additivi ogni 19 anni, al fine di controbilanciare la durata dei mesi che varia tra i 29 e 30 giorni: seguendo la fase lunare, infatti, il primo giorno di ogni mese coincide necessariamente con il novilunio.
 </p>
                           <p><!--<a href="history/" class="text-primary">Leggi</a></p>-->
@@ -122,8 +122,8 @@ Gli anni possono essere comuni (12 mesi) oppure embolismici (13 mesi). In genere
                         <a href="#" class="blog-thumbnail mb-3 d-block"><img src="images/culture/festa_di_metà_autunno.jpg" alt="Image" class="img-fluid"></a>
                         <div class="blog-excerpt">
                           <span class="d-block text-muted">Festività</span>
-                          <h2 class="h4  mb-3"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfXQ82Ow8T0NbsGsrGvdGHiCcwmtX5zXL1cp1XrmIYBSLhuOQ/viewform">Festa di metà Autunno</a></h2>
-                          <p style="color:#000; text-align: justify;"><strong>La Festa di metà Autunno - 中秋节(zhongqiujie)</strong> - cade il 15 dell’ottavo mese del calendario cinese. È conosciuta anche come Festa della Luna in quanto caratterizzata dalla fase di luna piena.
+                          <h2 class="h4  mb-3"><a>Festa di metà Autunno</a></h2>
+                          <p style="color:#000; text-align: justify;"><strong>La Festa di metà Autunno - 中秋节(zhongqiujie)</strong> - cade il 15 dell’ottavo mese del calendario cinese. È conosciuta anche come Festa della Luna in quanto caratterizzata dalla fase di luna piena.<br>
 Per i cinesi questo giorno simboleggia ricongiungimento e unione, infatti risulta essere un’occasione perfetta per stare con la famiglia ed ammirare insieme la bellezza della Luna. Nonostante ci siano usanze locali differenti nelle varie zone della Cina, tra i punti comuni più noti ci sono la consumazione dei mooncake e la preparazione delle lanterne.
 </p>
                           <p><!--<a href="history/" class="text-primary">Leggi</a></p>-->
@@ -133,10 +133,9 @@ Per i cinesi questo giorno simboleggia ricongiungimento e unione, infatti risult
                         <a href="#" class="blog-thumbnail mb-3 d-block"><img src="images/culture/lo_zodiaco_cinese.jpg" alt="Image" class="img-fluid"></a>
                         <div class="blog-excerpt">
                           <span class="d-block text-muted">Cultura & Società</span>
-                          <h2 class="h4  mb-3"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfXQ82Ow8T0NbsGsrGvdGHiCcwmtX5zXL1cp1XrmIYBSLhuOQ/viewform">Lo zodiaco cinese</a></h2>
-                          <p style="color:#000; text-align: justify;"><strong>Lo zodiaco cinese</strong> è composto da 12 animali: Topo, Bue, Tigre, Coniglio, Drago, Serpente, Cavallo, Capra, Scimmia, Gallo, Cane e Maiale.
+                          <h2 class="h4  mb-3"><a>Lo zodiaco cinese</a></h2>
+                          <p style="color:#000; text-align: justify;"><strong>Lo zodiaco cinese</strong> è composto da 12 animali: Topo, Bue, Tigre, Coniglio, Drago, Serpente, Cavallo, Capra, Scimmia, Gallo, Cane e Maiale.<br>
 Gli anni del calendario cinese sono raggruppati in cicli da 12, ad ognuno di essi viene associato un segno zodiacale seguendo l’ordine sopra indicato.
-
 </p>
                           <p><!--<a href="history/" class="text-primary">Leggi</a></p>-->
                         </div>
@@ -147,8 +146,8 @@ Gli anni del calendario cinese sono raggruppati in cicli da 12, ad ognuno di ess
                         <a href="#" class="blog-thumbnail mb-3 d-block"><img src="images/culture/il_capodanno_cinese.jpg" alt="Image" class="img-fluid"></a>
                         <div class="blog-excerpt">
                           <span class="d-block text-muted">Cultura & Società</span>
-                          <h2 class="h4  mb-3"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfXQ82Ow8T0NbsGsrGvdGHiCcwmtX5zXL1cp1XrmIYBSLhuOQ/viewform">Il Capodanno cinese</a></h2>
-                          <p style="color:#000; text-align: justify;"><strong>Il Capodanno cinese 新年, noto anche come festa di Primavera (春节)</strong>, di solito cade tra gennaio e febbraio e viene festeggiato per 2 settimane consecutive, concludendosi con la Festa delle Lanterne - 元宵节 (Yuanxiaojie). Essendo la festività nazionale più importante, tutti i membri della famiglia lasciano da parte i propri affari e si riuniscono in occasione della cena della Vigilia.
+                          <h2 class="h4  mb-3"><a>Il Capodanno cinese</a></h2>
+                          <p style="color:#000; text-align: justify;"><strong>Il Capodanno cinese 新年, noto anche come festa di Primavera (春节)</strong>, di solito cade tra gennaio e febbraio e viene festeggiato per 2 settimane consecutive, concludendosi con la Festa delle Lanterne - 元宵节 (Yuanxiaojie). Essendo la festività nazionale più importante, tutti i membri della famiglia lasciano da parte i propri affari e si riuniscono in occasione della cena della Vigilia.<br>
 Durante questo periodo è usanza visitare i parenti e gli amici più stretti, mangiare i ravioli, ammirare i fuochi d’artificio e la danza del leone. Il rosso, simbolo dell’entusiasmo e della felicità, è il colore che più si addice a dare il benvenuto all’anno nuovo: infatti spesso si veste di rosso e si decora la casa con oggetti rossi, ad esempio di tradizione si attaccano alla porta i fogli rossi con sopra scritto 福 (FU) all’incontrario per attirare la fortuna.
 </p>
                           <p><!--<a href="history/" class="text-primary">Leggi</a></p>-->
@@ -158,14 +157,13 @@ Durante questo periodo è usanza visitare i parenti e gli amici più stretti, ma
                         <a href="#" class="blog-thumbnail mb-3 d-block"><img src="images/culture/invenzioni.jpg" alt="Image" class="img-fluid"></a>
                         <div class="blog-excerpt">
                           <span class="d-block text-muted">Storia & Tecnologia</span>
-                          <h2 class="h4  mb-3"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfXQ82Ow8T0NbsGsrGvdGHiCcwmtX5zXL1cp1XrmIYBSLhuOQ/viewform">Le quattro grandi invenzioni</a></h2>
+                          <h2 class="h4  mb-3"><a>Le quattro grandi invenzioni</a></h2>
                           <p style="color:#000; text-align: justify;">Le <strong>quattro invenzioni</strong> ritenute la massima espressione dell’antica civiltà cinese sono:<br>
 -	Carta<br>
 -	Stampa a caratteri mobili<br>
 -	Polvere nera<br>
 -	Bussola<br>
 Infatti queste sono tutt’ora note in tutto il mondo e hanno dato un grande contributo al progresso della civiltà umana.
-
 </p>
                           <p><!--<a href="history/" class="text-primary">Leggi</a></p>-->
                         </div>
